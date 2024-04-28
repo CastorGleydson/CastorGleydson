@@ -1,4 +1,4 @@
-## Olá, meu nome é {Gleydson Castor}!
+## Hello everyone, my name {Gleydson Castor}, wellcome to my profile!
 
 ### ⚙️ GitHub Analytics
 
