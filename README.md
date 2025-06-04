@@ -4,27 +4,6 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td style="padding-right: 15px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=CastorGleydson&theme=dark&hide_border=false&include_all_commits=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td style="padding-right: 15px;">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=CastorGleydson&theme=dark&hide_border=false"
-        alt="Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 💻 Especialidades Técnicas
 
 > ⚫ Linguagens principais: **Python**, **Java**  
@@ -35,4 +14,56 @@
 
 ---
 
-*Disciplina, precisão e domínio técnico. No backend, onde encontro minha força, construo as bases sólidas que sustentam soluções completas.*
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td style="padding-right: 15px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=CastorGleydson&theme=radical&hide_border=false&include_all_commits=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td style="padding-right: 15px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastorGleydson&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=CastorGleydson&theme=radical&hide_border=false"
+        alt="Streak Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=CastorGleydson&column=8&theme=radical&no-frame=true&no-bg=true"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>📍 Profile Visitor Count</h3>
+  <img
+    src="https://profile-counter.glitch.me/CastorGleydson/count.svg"
+    alt="Número de visitantes no perfil"
+    style="filter: hue-rotate(330deg) brightness(130%)"
+  />
+</div>
+
+---
+
+> *Disciplina, precisão e domínio técnico. No backend, onde encontro minha força, construo as bases sólidas que sustentam soluções completas.*
