@@ -1,59 +1,38 @@
-## Hello everyone, I'm {Gleydson Castor}, wellcome to my profile!
+# ⚫ Gleydson Castor — Full Stack Developer ⚫
+
+> *“Embora transite por todo o stack, meu domínio e paixão estão no backend, onde construo soluções robustas e eficientes com Python e Java.”*
+
+---
 
 ### ⚙️ GitHub Analytics
 
 <table>
   <tr>
-    <td>
+    <td style="padding-right: 15px;">
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api?username=CastorGleydson&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
+        alt="GitHub Stats"
       />
     </td>
-    <td>
+    <td style="padding-right: 15px;">
       <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastorGleydson&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=CastorGleydson&theme=dark&hide_border=false"
-        alt="Github Stats"
+        alt="Streak Stats"
       />
     </td>
   </tr>
 </table>
 
---- 
+---
 
-### 🏆 GitHub Profile Trophy
+### 💻 Especialidades Técnicas
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=CastorGleydson&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+> ⚫ Linguagens principais: **Python**, **Java**  
+> ⚫ Foco: **Desenvolvimento Backend**  
+> ⚫ Experiência também com: **HTML**, **CSS**, **JavaScript** para aplicações Full Stack  
+> ⚫ Banco de dados: **SQL**, **SQLite**, **MySQL**  
+> ⚫ Ferramentas e frameworks: **Spring**, **Flask**, **Django**, **Tkinter**
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/CastorGleydson/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+*Disciplina, precisão e domínio técnico. No backend, onde encontro minha força, construo as bases sólidas que sustentam soluções completas.*
