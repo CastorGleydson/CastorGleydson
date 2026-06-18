@@ -47,7 +47,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Repositório de troféus">
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=CastorGleydson&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy"
+      src="https:[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)"
       alt="GitHub Trophies"
     />
   </a>
