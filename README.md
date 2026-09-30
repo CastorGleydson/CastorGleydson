@@ -1,49 +1,48 @@
-# ⚫ Gleydson Castor — Full Stack Developer ⚫
-
-> *“Embora transite por todo o stack, meu domínio e paixão estão no backend, onde construo soluções robustas e eficientes com Python e Java.”*
-
----
-
-### 💻 Especialidades Técnicas
-
-> ⚫ Linguagens principais: **Python**, **Java**  
-> ⚫ Foco: **Desenvolvimento Backend** e **IA aplicada**  
-> ⚫ Experiência também com: **HTML**, **CSS**, **JavaScript** para aplicações Full Stack  
-> ⚫ Banco de dados: **SQL**, **SQLite**, **MySQL**, **PostgreSQL**  
-> ⚫ Ferramentas e frameworks: **Spring Boot**, **Flask**, **Django**, **Tkinter**  
-> ⚫ IA e automação: **RAG**, **LLMs**, automação de processos e dashboards de **BI**  
-> ⚫ Planejamento: **MS Project** e controle de projetos de engenharia
-
----
-
-### ⚙️ GitHub Analytics
+<h1 align="center">Gleydson Castor</h1>
+<p align="center"><b>Backend Developer · IA Aplicada · Automação</b></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CastorGleydson&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastorGleydson&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CastorGleydson&theme=radical" alt="Streak Stats" />
+  <a href="https://www.linkedin.com/in/gleydson-castor-2453b419a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gleydsonvitalino@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ---
 
-### 🏆 GitHub Profile Trophy
+<h3 align="center">Sobre mim</h3>
+
+Desenvolvedor com foco em **backend**, construindo soluções robustas e eficientes com **Python** e **Java**. Atualmente atuo como **Analista de Desenvolvimento em IA** na Draft Solutions, consultoria de gerenciamento de projetos de engenharia, trabalhando com aplicações de IA, automação de processos e dashboards de BI.
+
+Antes disso, passei quatro anos na **Tractebel** atuando em grandes projetos industriais, incluindo o **S11D**, o que me deu uma base sólida em planejamento e controle de projetos. Sou graduando no **CEFET-MG**.
+
+<h3 align="center">Áreas de atuação</h3>
+
+- **Backend:** APIs e sistemas com Spring Boot, Flask e Django
+- **IA aplicada:** soluções com LLMs e sistemas de RAG (recuperação de documentos)
+- **Automação e dados:** automação de processos, dashboards de BI e integração com bancos de dados
+- **Planejamento:** cronogramas em MS Project e controle de projetos de engenharia
+
+---
+
+<h3 align="center">Tecnologias</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CastorGleydson&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,flask,django,postgres,mysql,sqlite,html,css,js,git,linux,vscode&theme=dark&perline=7" alt="Tecnologias" />
+</p>
+
+<h3 align="center">Atividade</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CastorGleydson&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=CastorGleydson&theme=onedark&no-frame=true&no-bg=true&margin-w=6&title=MultiLanguage,LongTimeUser,NewUser,Stars,Commits,Followers,Repositories" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CastorGleydson/CastorGleydson/output/github-snake-dark.svg" alt="Gráfico de contribuições" />
 </p>
 
 ---
 
-<div align="center">
-  <h3>📍 Profile Visitor Count</h3>
-  <img src="https://komarev.com/ghpvc/?username=CastorGleydson&color=ff69b4&style=flat-square&label=Visitantes" alt="Número de visitantes no perfil" />
-</div>
-
----
-
-> *Disciplina, precisão e domínio técnico. No backend, onde encontro minha força, construo as bases sólidas que sustentam soluções completas.*
+<p align="center"><i>Disciplina, precisão e domínio técnico: construo as bases sólidas que sustentam soluções completas.</i></p>
